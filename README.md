@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Thomas Skodje, a computer science student at Emory University class of 2024
-- 👀 I’m interested in web development and all things related to games!
-- 🌱 I’m currently learning java, R, and would like start learning about the web development space.
-- 📫 How to reach me - Email: thomas.skodje@gmail.com  Discord: Molotom#4419
+- 👋 Hi, I’m Thomas Skodje, an computer science graduate student at Georgia Tech, and computer science graduate from Emory University class of 2024!
+- 👀 I’m interested in systems programming, embedded systems, security, databases, and the use of technology in healthcare.
+- 🌱 I’m currently learning more about operating systems, C, and lower level programming.
+- 📫 How to reach me - Email: thomas.skodje@gmail.com
 
